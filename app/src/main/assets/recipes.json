@@ -2,8 +2,8 @@
   "recipes": [
     {
       "title": "Grilled Deviled Chickens Under a Brick",
-      "image" : "http://www.edamam.com/web-img/5f5/5f51c89f832d50da84e3c05bef3f66f9.jpg",
-      "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mslo0510-recipe/",
+      "image" : "https://www.edamam.com/web-img/5f5/5f51c89f832d50da84e3c05bef3f66f9.jpg",
+      "url": "https://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mslo0510-recipe/",
       "description": "Grilling these chickens under a heavy weight will help them cook quickly and evenly, leaving them crisp and juicy.",
       "servings": 4,
       "dietLabel": "Low-Carb",
@@ -13,7 +13,7 @@
     {
       "title": "Stir-Fried Rice with Chinese Sausage",
       "image" : "https://www.edamam.com/web-img/341/3417c234dadb687c0d3a45345e86bff4.jpg",
-      "url": "http://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
+      "url": "https://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
       "description": "While slices of Chinese sausage are good in any stir-fry, my favorite way to use them is in a rice or noodle dish, so the staple soaks ups the fat rendered from the sausage. Used in fried rice, the sausages impart a rich taste to each kernel.",
       "servings": 4,
       "dietLabel": "Balanced",
@@ -23,7 +23,7 @@
     {
       "title": "Five-Spice Chicken Wings Recipe",
       "image" : "https://www.edamam.com/web-img/c7d/c7d9644d5e696ec0a99af1563d3f3fc3.jpg",
-      "url": "http://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
+      "url": "https://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
       "description": "The sweet heat from the Chinese five-spice powder may not be what you typically think of in terms of incendiary wings, and the crisp skin comes from the blast of a hot oven rather than the splattering of hot oil. Yet we’re quite, quite taken with them all the same. Wingdings for dinner.",
       "servings": 4,
       "dietLabel": "Low-Carb",
@@ -33,7 +33,7 @@
     {
       "title": "Chinese Pork Ribs",
       "image" : "https://www.edamam.com/web-img/f06/f062a39915fe22cf47ddd21ce03e78db.jpg",
-      "url": "http://www.seriouseats.com/recipes/2009/07/grilling-chinese-style-spare-ribs-recipe.html",
+      "url": "https://www.seriouseats.com/recipes/2009/07/grilling-chinese-style-spare-ribs-recipe.html",
       "description": "A superquick family favourite - fab for barbeques.",
       "servings": 4,
       "dietLabel": "Medium-Carb",
@@ -43,7 +43,7 @@
     {
       "title": "Korean Rice Cakes (Dok Boki)",
       "image" : "https://www.edamam.com/web-img/fb3/fb3bc87fd98258e3151e4e1604e5db1a.jpg",
-      "url": "http://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-dok-boki.html",
+      "url": "https://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-dok-boki.html",
       "description": "Rice cake, called tteok in Korean, is a much-loved traditional dish with many many variations. No festival day, anniversary, or celebrations is complete without them. They are very chewy, and may be an acquired taste, but once you get hooked you'll crave them all the time.",
       "servings": 4,
       "dietLabel": "Low-Fat",
@@ -54,7 +54,7 @@
     {
       "title": "Dump Cake",
       "image" : "https://www.edamam.com/web-img/d14/d14cd8ea9dfafe5836f96a6b0f2e6da1.jpg",
-      "url": "http://www.epicurious.com/recipes/member/views/DUMP-CAKE-50059991",
+      "url": "https://www.epicurious.com/recipes/member/views/DUMP-CAKE-50059991",
       "description": "Don’t let the name scare you. It’s a really simple dessert — usually made with a base of cake mix + fruit filling — where, true to its name, you can dump the ingredients into a pan, give it a stir, and bake.",
       "servings": 12,
       "dietLabel": "Vegetarian",
@@ -64,7 +64,7 @@
     {
       "title": "Sugar Cookies",
       "image" : "https://www.edamam.com/web-img/6d3/6d330326a8537689db909a91767595b6.jpg",
-      "url": "http://www.seriouseats.com/recipes/2008/12/sugar-cookies-recipe-gina-depalma-holidays.html",
+      "url": "https://www.seriouseats.com/recipes/2008/12/sugar-cookies-recipe-gina-depalma-holidays.html",
       "description": "To be served warm, when they're nice and chewy, with jam or with strawberries and cream. When cooled and left unadorned, they become crisp and buttery sugar cookies.",
       "servings": 42,
       "dietLabel": "Low-Sodium",
@@ -74,7 +74,7 @@
     {
       "title": "Pretzel Dumplings With Creamed Chanterelle Mushrooms",
       "image" : "https://www.edamam.com/web-img/1d0/1d0075b30ec5fc368ce9ccaf3156462a.jpg",
-      "url": "http://www.deliciousdays.com/archives/2006/10/03/land-of-the-dumplings/",
+      "url": "https://www.deliciousdays.com/archives/2006/10/03/land-of-the-dumplings/",
       "description": "A warm homy dish",
       "servings": 10,
       "dietLabel": "Low-Carb",
@@ -84,7 +84,7 @@
     {
       "title": "Creamed Candy Corn",
       "image" : "https://www.edamam.com/web-img/a5a/a5a5a0716d6e7ff4f020c86e546c1013.jpg",
-      "url": "http://www.seriouseats.com/recipes/2010/11/cakespy-creamed-candy-corn-recipe.html",
+      "url": "https://www.seriouseats.com/recipes/2010/11/cakespy-creamed-candy-corn-recipe.html",
       "description": "The resulting candy corn slurry is certainly one of those dishes that straddles the line between awful and awesome: that is to say, you might just like it, but you probably wouldn't confess that to your foodie friends.",
       "servings": 6,
       "dietLabel": "Vegetarian",
@@ -94,7 +94,7 @@
     {
       "title": "Buttermilk Creams with Strawberries",
       "image" : "https://www.edamam.com/web-img/af6/af6e66d2d8b8de01a99d7587429223ae.jpg",
-      "url": "http://www.marthastewart.com/314096/buttermilk-creams-with-strawberries",
+      "url": "https://www.marthastewart.com/314096/buttermilk-creams-with-strawberries",
       "description": "Whipped cream gives these no-bake eggless custards a delicate texture. Don't worry if the mixture forms clumps at first -- it will come together with gentle folding.",
       "servings": 8,
       "dietLabel": "Low-Sodium",
